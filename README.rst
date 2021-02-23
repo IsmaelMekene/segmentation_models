@@ -27,6 +27,7 @@
 
 **Important note**
 
+
     Some models of version ``1.*`` are not compatible with previously trained models,
     if you have such models and want to load them - roll back with:
 
